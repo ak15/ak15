@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atul
-- 👀 I’m interested in Rails, ❤️ Ruby , Web Application Development , Code Automation(Jitera - https://jitera.com/)
+- 👀 I’m interested in Rails, ❤️ Ruby , Web Application Development ,Low Code Platform(Jitera - https://jitera.com/)
 - 🌱 I’m currently learning AI, Machine Learning
 - 💞️ I’m looking to collaborate on Rails
 - 📫 How to reach me atulkanswal@gmail.com
