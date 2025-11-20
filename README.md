@@ -11,9 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 Open Source CR's
-https://github.com/rails/rails/pull/38737
-https://github.com/rwojsznis/sidekiq-lock/pull/14
-
-https://github.com/ankane/ahoy/pull/453/files
-https://github.com/heartcombo/devise/pull/5503/files
-https://github.com/neo4j-drivers/seabolt/pull/88
+- https://github.com/rails/rails/pull/38737
+- https://github.com/rwojsznis/sidekiq-lock/pull/14
+- https://github.com/ankane/ahoy/pull/453/files
+- https://github.com/heartcombo/devise/pull/5503/files
+- https://github.com/neo4j-drivers/seabolt/pull/88
